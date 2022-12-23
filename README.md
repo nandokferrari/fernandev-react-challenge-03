@@ -8,7 +8,7 @@ Dessa vez temos um formulário que deve alterar uma barra de progresso conforme 
 
 Preste bem atenção às instruções dentro do arquivo App.jsx e bora codar!
 
-Se você curtir esse conteúdo, deixa uma STAR aí nesse repo, porque isso me motiva a trazer mais conteúdos desse gênero.
+**Se você curtir esse conteúdo, deixa uma STAR aí nesse repo, porque isso me motiva a trazer mais conteúdos desse gênero.**
 
 ## Resolução do desafio
 
